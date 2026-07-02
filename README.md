@@ -4,7 +4,15 @@
 <p align="center">
   Passionate about building full-stack web applications and solving problems through code.
 </p>
+## 📊 GitHub Stats
 
+<div align="center">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshchauhan06&theme=github_dark">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshchauhan06&theme=github_dark">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshchauhan06&theme=github_dark">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshchauhan06&theme=github_dark">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshchauhan06&theme=github_dark&utcOffset=5.5">
+</div>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express;Learning+Something+New+Every+Day" />
 </p>
