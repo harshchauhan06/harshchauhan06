@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHR2bjQwYmIyY2NyMzJsNXpkamY5cnRiZW9tbnlieGdkNDFnaG03dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Expense Tracker" width="700"/>
+</p>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <h1 align="center">Hi 👋, I'm Harsh Chauhan</h1>
