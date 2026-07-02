@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 <h1 align="center">Hi 👋, I'm Harsh Chauhan</h1>
 <h3 align="center">Aspiring Full Stack Developer | React | Node.js | Express | PostgreSQL | C++</h3>
 
@@ -13,6 +15,10 @@
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshchauhan06&theme=github_dark">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshchauhan06&theme=github_dark&utcOffset=5.5">
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Express;Learning+Something+New+Every+Day" />
 </p>
